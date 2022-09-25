@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nathan
 
 - 🔭 Hoje trabalho como suporte técnico
-- 🌱 Atualmente estou estudando PHP
+- 🌱 Atualmente estou estudando JavaScript
 - 💬 Contate-me no email: nathanvasconcelos87@gmail.com
 
 <div align="center">
